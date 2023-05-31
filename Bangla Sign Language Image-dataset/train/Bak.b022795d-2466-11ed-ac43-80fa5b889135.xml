@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Bak</folder>
+	<filename>Bak.b022795d-2466-11ed-ac43-80fa5b889135.jpg</filename>
+	<path>E:\test proj\TFODCourse\Tensorflow\workspace\images\collectedimages\Bak\Bak.b022795d-2466-11ed-ac43-80fa5b889135.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bak</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>297</xmin>
+			<ymin>194</ymin>
+			<xmax>368</xmax>
+			<ymax>351</ymax>
+		</bndbox>
+	</object>
+</annotation>

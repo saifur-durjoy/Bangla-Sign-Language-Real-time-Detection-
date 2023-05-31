@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Shundor</folder>
+	<filename>Shundor.8e5317f7-2468-11ed-9b35-80fa5b889135.jpg</filename>
+	<path>E:\test proj\TFODCourse\Tensorflow\workspace\images\collectedimages\Shundor\Shundor.8e5317f7-2468-11ed-9b35-80fa5b889135.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Shundor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>222</xmin>
+			<ymin>159</ymin>
+			<xmax>324</xmax>
+			<ymax>321</ymax>
+		</bndbox>
+	</object>
+</annotation>

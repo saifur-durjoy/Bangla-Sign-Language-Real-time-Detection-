@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Ami</folder>
+	<filename>Ami.0c472277-2469-11ed-aa09-80fa5b889135.jpg</filename>
+	<path>E:\test proj\TFODCourse\Tensorflow\workspace\images\collectedimages\Ami\Ami.0c472277-2469-11ed-aa09-80fa5b889135.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ami</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>317</xmin>
+			<ymin>344</ymin>
+			<xmax>412</xmax>
+			<ymax>436</ymax>
+		</bndbox>
+	</object>
+</annotation>

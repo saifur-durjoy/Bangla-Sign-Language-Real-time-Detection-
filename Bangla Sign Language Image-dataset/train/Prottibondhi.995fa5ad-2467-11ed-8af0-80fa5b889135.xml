@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Prottibondhi</folder>
+	<filename>Prottibondhi.995fa5ad-2467-11ed-8af0-80fa5b889135.jpg</filename>
+	<path>E:\test proj\TFODCourse\Tensorflow\workspace\images\collectedimages\Prottibondhi\Prottibondhi.995fa5ad-2467-11ed-8af0-80fa5b889135.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Prottibondhi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>193</xmin>
+			<ymin>145</ymin>
+			<xmax>278</xmax>
+			<ymax>226</ymax>
+		</bndbox>
+	</object>
+</annotation>
